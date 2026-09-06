@@ -410,7 +410,7 @@ Financial eligibility decisions are usually made with limited, manually-reviewed
 
 ## Live Demo
 
-🚀 [EMIPredict AI – Live Application](https://emipredict-ai-ku5nzublfosrywbfhh2gj.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emipredict-ai-ku5nzublfosrywbffh2gjv.streamlit.app/)
 
 ## 26. Author
 
